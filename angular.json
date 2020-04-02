@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ipl-stat"
+    }
+  },
+  "defaultProject": "ipl-stat",
+  "cli": {
+    "analytics": "7a90ab75-4f8b-484c-a72b-6c2e379513fd"
+  }
 }
